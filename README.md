@@ -1,6 +1,6 @@
 # Room_Light_Monitoring-with-ML
 
-This is a room light monitoring and alert system with a Bolt WiFi Module(ESP8266).
+This is a room light monitoring and alert system with a Bolt WiFi Module(ESP8266) using a light sensor(LDR).
 
 The system is made intelligent and efficient by deploying Machine Learning with Anomaly Detection.
 A Z-Score Analysis Algorithm is executed to dynamically define thresholds for the light intensity data read continously by the light sensor.
